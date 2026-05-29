@@ -7,3 +7,6 @@ Configured the shape (CPU/memory) and network settings, assigning a public IP fo
 Generated an SSH key, downloaded it, and launched the VM.
 After the VM started, I connected via SSG using the key.
 Updated the system package and installed the necessary tools.
+/Users/antonioturner/Desktop/Screenshot 2026-05-29 at 3.28.04 PM.png
+/Users/antonioturner/Desktop/Screenshot 2026-05-29 at 3.06.45 PM.png
+/Users/antonioturner/Desktop/Screenshot 2026-05-29 at 2.49.33 PM.png
