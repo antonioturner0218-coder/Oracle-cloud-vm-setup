@@ -6,5 +6,4 @@ Selected "Compute" and created a virtual machine instance with my chosen (Ubuntu
 Configured the shape (CPU/memory) and network settings, assigning a public IP for access.
 Generated an SSH key, downloaded it, and launched the VM.
 After the VM started, I connected via SSG using the key.
-Updated the system package and installed the tools I needed.
-/Users/antonioturner/Desktop/Screenshot 2026-05-29 at 3.28.04 PM.png
+Updated the system package and installed the necessary tools.
